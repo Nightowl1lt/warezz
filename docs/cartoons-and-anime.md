@@ -33,6 +33,7 @@ sidebar_label: Anime
 
 ## streaming
 
+- [AnimeOwl](https://animeowl.net/) - Watch anime online. English anime, dubbed, subbed. No ads, fast site and streaming speed, huge library, fast response dev team.
 - [9Anime](https://9anime.to) - Watch anime online. English anime, dubbed, subbed.
 - [4anime](https://4anime.to/) - A relatively new site, clean interface, Subs and dubs, many ads, many player alternatives.
 - [Anime8](https://anime8.me/) - Watch & download online in high quality.
